@@ -79,39 +79,6 @@ body{
 }
 
 /* =========================
-   CONTADOR
-========================= */
-
-.countdown{
-  display:flex;
-  justify-content:center;
-  flex-wrap:wrap;
-  gap:15px;
-  margin-top:35px;
-}
-
-.counter-box{
-  background:rgba(255,255,255,.15);
-  backdrop-filter:blur(10px);
-  padding:15px 25px;
-  border-radius:15px;
-  min-width:100px;
-}
-
-.counter-box span{
-  display:block;
-  font-size:32px;
-  color:white;
-  font-weight:600;
-}
-
-.counter-box small{
-  color:white;
-  text-transform:uppercase;
-  letter-spacing:2px;
-}
-
-/* =========================
    BOTÕES
 ========================= */
 
